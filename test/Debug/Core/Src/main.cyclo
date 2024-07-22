@@ -1,0 +1,11 @@
+../Core/Src/main.c:83:6:microDelay	2
+../Core/Src/main.c:119:6:de_compress	2
+../Core/Src/main.c:148:6:compress	2
+../Core/Src/main.c:177:6:transaction_percentage	1
+../Core/Src/main.c:188:6:syringe_laps_calculator	1
+../Core/Src/main.c:199:6:instant_ul_calculator	1
+../Core/Src/main.c:211:5:main	1
+../Core/Src/main.c:265:6:SystemClock_Config	3
+../Core/Src/main.c:311:13:MX_TIM1_Init	4
+../Core/Src/main.c:357:13:MX_GPIO_Init	1
+../Core/Src/main.c:397:6:Error_Handler	1
